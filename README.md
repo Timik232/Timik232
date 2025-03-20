@@ -34,12 +34,8 @@
 </div>
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Timik232&show_icons=true&locale=en" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=Timik232&show_icons=true&locale=en" width="380" />
-  </a>
-  
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Timik232&show_icons=true&locale=en" rel="noreferrer">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timik232&show_icons=true&locale=en" width="400" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Timik232&show_icons=true&locale=en" width="450" />
+  </a> 
   </br>
 </div>
 <div align="center">
