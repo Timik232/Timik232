@@ -30,14 +30,18 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 
-  <h2 align="left">💡 Contribution Stats</h2>
-</div>
+ <h2 align="left">💡 Contribution Stats</h2>
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Timik232&show_icons=true&locale=en" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=Timik232&show_icons=true&locale=en" width="450" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=Timik232&show_icons=true&locale=en" width="450" />
   </a> 
-  </br>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timik232&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" alt="Top Languages stats" width="320" />
+  </a>
+  <br>
 </div>
+
 <div align="center">
   <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Timik232&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" rel="noreferrer" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Timik232&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" alt="Top Languages stats" width="320" />
