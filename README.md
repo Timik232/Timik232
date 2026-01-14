@@ -11,6 +11,14 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ser13volk)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Timik232)
 
+### 📈 Repository Stats
+
+![Top Languages](https://img.shields.io/badge/Python-45%25-3670A0?style=flat-square&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-20%25-FA0F00?style=flat-square&logo=jupyter)
+![JavaScript](https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript)
+
+**Total Public Repos:** ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Timik232&query=$.public_repos&style=flat-square&logo=github&label=repos&color=blue)
+
 <h2 align="left">🖥 My tech stack</h2>
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,14 +49,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Timik232&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 </div>
 <div align="center">
-
-### 📈 Repository Stats
-
-![Top Languages](https://img.shields.io/badge/Python-45%25-3670A0?style=flat-square&logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-20%25-FA0F00?style=flat-square&logo=jupyter)
-![JavaScript](https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript)
-
-**Total Public Repos:** ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Timik232&query=$.public_repos&style=flat-square&logo=github&label=repos&color=blue)
 
 </div>
 
