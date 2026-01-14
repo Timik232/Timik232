@@ -31,24 +31,32 @@
 
 
 <h2 align="left">🔥 GitHub Activity</h2>
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timik232&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="450"/>
-  <br/><br/>
+<div align="center">  
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Timik232&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 </div>
-
-<h2 align="left">📊 Coding Stats</h2>
 <div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Timik232&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
-  <br/><br/>
+
+### 📈 Repository Stats
+
+![Top Languages](https://img.shields.io/badge/Python-45%25-3670A0?style=flat-square&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-20%25-FA0F00?style=flat-square&logo=jupyter)
+![JavaScript](https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript)
+
+**Total Public Repos:** ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Timik232&query=$.public_repos&style=flat-square&logo=github&label=repos&color=blue)
+
+</div>
+
+---
+
+<div align="center">
   
-  <!-- GitHub Stats Cards (альтернативный рабочий инстанс) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Timik232&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timik232&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+### 🌐 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ser13volk)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Timik232)
+
 </div>
 
 <h2 align="left">⚡ Recent Activity</h2>
