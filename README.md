@@ -30,25 +30,38 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 
- <h2 align="left">💡 Contribution Stats</h2>
+<h2 align="left">🔥 GitHub Activity</h2>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=Timik232&show_icons=true&locale=en" width="450" />
-  </a> 
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timik232&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" alt="Top Languages stats" width="320" />
-  </a>
-  <br>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timik232&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="450"/>
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Timik232&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 </div>
 
+<h2 align="left">📊 Coding Stats</h2>
 <div align="center">
-  <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Timik232&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" rel="noreferrer" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Timik232&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" alt="Top Languages stats" width="320" />
-  </a>
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Timik232&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+  <br/><br/>
+  
+  <!-- GitHub Stats Cards (альтернативный рабочий инстанс) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Timik232&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timik232&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
- <h2 align="left">🏆 GitHub Trophies</h2>
+
+<h2 align="left">⚡ Recent Activity</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Timik232&no-frame=false&no-bg=true&margin-w=3" 
-                                                    alt="There are my trophies..." />
+  <!-- Snake eating contributions animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Timik232/Timik232/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Timik232/Timik232/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Timik232/Timik232/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+![GitHub followers](https://img.shields.io/github/followers/Timik232?style=for-the-badge&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/Timik232?style=for-the-badge&logo=github)
+
+
