@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Каждый день в полночь
+    - cron: "0 0 * * *"  # Каждый день в полночь UTC
   workflow_dispatch:
+
+permissions:
+  contents: write  # Добавь эту строку!
 
 jobs:
   generate:
