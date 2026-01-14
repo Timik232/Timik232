@@ -4,8 +4,12 @@
 
 - 🌱 I’m currently learning Machine Learning and NLP
 - 🤔 I’m currently using Python
-- 📫 How to reach me:  https://t.me/ser13volk
 - 👁️ Let's see visitors amount: ![GitHub Views](https://komarev.com/ghpvc/?username=Timik232)
+
+### 🌐 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ser13volk)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Timik232)
 
 <h2 align="left">🖥 My tech stack</h2>
   
@@ -51,11 +55,7 @@
 ---
 
 <div align="center">
-  
-### 🌐 Connect With Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ser13volk)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Timik232)
 
 </div>
 
